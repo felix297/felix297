@@ -2,9 +2,9 @@
 - 👀 I’m interested in reading and thinking.
 - 🌱 I’m currently learning javaweb development.
 
-<img   align="left" src="https://github-readme-stats.vercel.app/api?username=felix297&locale=en&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=github"/>
+<img   align="left" height="300px" src="https://github-readme-stats.vercel.app/api?username=felix297&locale=en&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=github"/>
 
-<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix297&locale=en&line_height=33&theme=radical&langs_count=5&layout=compact"/>
+<img   align="right" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix297&locale=en&line_height=33&theme=radical&langs_count=5&layout=compact"/>
 <!--
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: 
